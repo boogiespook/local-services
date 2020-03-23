@@ -20,6 +20,8 @@ The index.php page gives and example but you can use template.php as a blank can
 
 For you Linux users out there (hopefully the majority of you!) just grep for "XXXXX" in the code to find out which areas need to be customised.
 
+For the Google Map locations, I use https://developers.google.com/maps/documentation/embed/start to get the place_id.  Nice and easy!
+
 Please feel free to use, edit and distribute this site to help other communities.  Any pull requests for change would be appreciated along with any feedback.
 
 ## Example site
